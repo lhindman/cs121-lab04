@@ -1,6 +1,14 @@
 # Lab04 Guide
 ## Getting Started
-Please watch the Lab04 Walkthough Video.  
+Please watch the [Lab04 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyktCxjjiuAu-hi5f3AFIh).
+
+### Code Style Requirements
+Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQBKkApnNAzzgwOSvRM03DmhYWx5yEfecT2WXfjI/edit?usp=sharing) and apply it in all lab activities and projects this semester. Coding Style will assessed as part of your lab and project grades.
+
+### Code Quality Requirements
+- Code must compile without warnings using openjdk11
+- Code must run without errors or warnings on safe-path and edge test cases
+- More to come as we learn about input validation and exception handling
 ## Activity 1 - LeapChecker (pp4.1)
 ### Problem Description
 Design and implement an application that reads an integer value representing a year from the user.  The purpose of the program is to determine whether theyear is a leap year (and therfore has 29 days in February) in the Gregorian calendar.  A year is a leap year if it is divisible by 4, unless it is also divisible by 100 but not 400.  For example, the year 2003 is not a leap year, bu t2004 is.  The year 1900 is not a leap year because it is divisible by 100, but the year 2000 is a leap year because even though it is divisible by 100, it is also divisible by 400. Produce an error message for any input value less than 1582 (the year the Gregorian calendar was adopted).
