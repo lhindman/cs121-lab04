@@ -13,10 +13,10 @@
 			"path": "A3-HigherLower"
 		},
 		{
-			"path": "A4-MASHGame"
+			"path": "A4-VowelCounter"
 		},
 		{
-			"path": "A5-Gradebook"
+			"path": "A5-RockPaperScissors"
 		}
 	],
 	"settings": {
