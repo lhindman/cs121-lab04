@@ -1,6 +1,7 @@
 # Lab04 Guide
 ## Getting Started
 Please watch the [Lab04 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyktCxjjiuAu-hi5f3AFIh).
+Please clone the [Mod04 Code Examples](https://github.com/lhindman/cs121-mod04-examples.git).
 
 ### Code Style Requirements
 Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQBKkApnNAzzgwOSvRM03DmhYWx5yEfecT2WXfjI/edit?usp=sharing) and apply it in all lab activities and projects this semester. Coding Style will assessed as part of your lab and project grades.
