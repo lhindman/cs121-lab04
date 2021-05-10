@@ -1,6 +1,6 @@
 # Lab04 Guide
 ## Getting Started
-Please watch the [Lab04 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyktCxjjiuAu-hi5f3AFIh).
+Please watch the [Lab04 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyAyktCxjjiuAu-hi5f3AFIh).  
 Please clone the [Mod04 Code Examples](https://github.com/lhindman/cs121-mod04-examples.git).
 
 ### Code Style Requirements
